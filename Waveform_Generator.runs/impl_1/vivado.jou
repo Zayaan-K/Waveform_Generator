@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 12:34:56 MST 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Fri Jul 10 00:01:00 2026
+# Process ID         : 29650
+# Current directory  : /home/zayaan/Basys3_projects/Waveform_Generator/Waveform_Generator.runs/impl_1
+# Command line       : vivado -log top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top.tcl -notrace
+# Log file           : /home/zayaan/Basys3_projects/Waveform_Generator/Waveform_Generator.runs/impl_1/top.vdi
+# Journal file       : /home/zayaan/Basys3_projects/Waveform_Generator/Waveform_Generator.runs/impl_1/vivado.jou
+# Running On         : zayaan-Nitro-AN17-41
+# Platform           : Linuxmint
+# Operating System   : Linux Mint 22.3
+# Processor Detail   : AMD Ryzen 5 7535HS with Radeon Graphics
+# CPU Frequency      : 4326.430 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 32793 MB
+# Swap memory        : 2147 MB
+# Total Virtual      : 34940 MB
+# Available Virtual  : 25648 MB
+#-----------------------------------------------------------
+source top.tcl -notrace
