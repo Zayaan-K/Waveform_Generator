@@ -22,6 +22,10 @@ The sample images were sampled from a filter of value
 R = 1kohm
 C = 10 nF
 
+and wave of 
+Freq = 440 Hz
+Amplitude = 3.3v
+
 wavePin ---- resistor ---- scope probe tip
                        |
                     capacitor
